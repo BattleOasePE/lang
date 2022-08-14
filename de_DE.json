@@ -8,7 +8,12 @@
   "values": {
     "LanguageSystem.change": "{PREFIX}&aDeine Sprache wurde geändet!",
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &7ES",
+    
+    "coins.command.message": "{PREFIX}&7Du hast aktuell &6{COINS} &7Coins!",
+    
     "lobbycore.message.soon": "{PREFIX}Bald!",
+    
+    
     "joinMe.ui.createJoinMe": "Create JoinMe",
     "joinMe.ui.listJoinMe": "List JoinMes",
     "joinME.is.not.Allowed": "You are not Allowed",
