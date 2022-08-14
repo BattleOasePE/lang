@@ -7,7 +7,7 @@
   
   "values": {
     "LanguageSystem.change": "{PREFIX}&aDeine Sprache wurde geändet!",
-    "
+    "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &7ES",
     "lobbycore.message.soon": "{PREFIX}Bald!",
     "joinMe.ui.createJoinMe": "Create JoinMe",
     "joinMe.ui.listJoinMe": "List JoinMes",
