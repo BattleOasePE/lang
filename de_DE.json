@@ -32,6 +32,8 @@
     "groupsystem.message.setnewRank": "{PREFIX}Gruppe {0} an {1} gegeben neuer rank btw!",
     "groupsystem.message.giveplayergroup": "{PREFIX} Gived group {0} to player {1}",
     "groupsystem.message.giveplayergroup": "{PREFIX}Gived the Group {0} to the Player {1}",
-    "groupsystem.message.groupNotfound": "{PREFIX}Group {0} not Found!"
+    "groupsystem.message.groupNotfound": "{PREFIX}Group {0} not Found!",
+    
+    "privateServer.msg.onlyAdmin": "{PREFIX}PS Tool only for an Admin!"
   }
 }
