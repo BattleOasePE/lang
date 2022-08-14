@@ -18,6 +18,9 @@
     "joinMe.ui.createJoinMe": "Create JoinMe",
     "joinMe.ui.listJoinMe": "List JoinMes",
     "joinME.is.not.Allowed": "You are not Allowed",
+    "joinMe.exist": "Existing Joinme",
+    
+    "gamePass.message.unlock": "Unlocked Noah",
     
     "FriendSystem.ui.button.listFriends": "Freundschaftsliste",
     "FriendSystem.ui.button.friendRequests": "FA Anfragen",
