@@ -6,8 +6,11 @@
   "contributors": ["EyNoah"],
   
   "values": {
-    "Language.change": "{PREFIX}&aDeine Sprache wurde geändet!",
-    
-    "lobbycore.message.soon": "{PREFIX}Bald!"
+    "LanguageSystem.change": "{PREFIX}&aDeine Sprache wurde geändet!",
+    "
+    "lobbycore.message.soon": "{PREFIX}Bald!",
+    "joinMe.ui.createJoinMe": "Create JoinMe",
+    "joinMe.ui.listJoinMe": "List JoinMes",
+    "joinME.is.not.Allowed": "You are not Allowed"
   }
 }
