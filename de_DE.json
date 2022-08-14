@@ -26,6 +26,11 @@
     "FriendSystem.error": "Freundschafts Fehler",
     "FriendSystem.already.send": "{0} hat bereits eine FA erhalten!",
     "FriendSystem.already.yourFriend": "{0} Ist bereits dein Freund!",
-    "FriendSystem.player.notExist": "{0} Existiert nicht!"
+    "FriendSystem.player.notExist": "{0} Existiert nicht!",
+    
+    "groupsystem.message.giveplayergroup": "{PREFIX}Gruppe wurde an {0} gegeben!",
+    "groupsystem.message.setnewRank": "{PREFIX}Gruppe {0} an {1} gegeben neuer rank btw!",
+    "groupsystem.message.giveplayergroup": "{PREFIX} Gived group {0} to player {1}",
+    "groupsystem.message.giveplayergroup": "{PREFIX}Gived the Group {0} to the Player {1}"
   }
 }
