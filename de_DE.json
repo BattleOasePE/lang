@@ -8,6 +8,7 @@
   "values": {
     "LanguageSystem.change": "{PREFIX}&aDeine Sprache wurde geändet!",
     "LanguageSystem.values": "{PREFIX}&7DE&8, &7EN&8, &7ES",
+    "unknown.command.message": "{PREFIX}No Command found!",
     
     "coins.command.message": "{PREFIX}&7Du hast aktuell &6{COINS} &7Coins!",
     
