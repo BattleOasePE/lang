@@ -11,6 +11,16 @@
     "lobbycore.message.soon": "{PREFIX}Bald!",
     "joinMe.ui.createJoinMe": "Create JoinMe",
     "joinMe.ui.listJoinMe": "List JoinMes",
-    "joinME.is.not.Allowed": "You are not Allowed"
+    "joinME.is.not.Allowed": "You are not Allowed",
+    
+    "FriendSystem.ui.button.listFriends": "Freundschaftsliste",
+    "FriendSystem.ui.button.friendRequests": "FA Anfragen",
+    "FriendSystem.ui.button.addFriend": "Adde einen Freund",
+    "FriendSystem.ui.button.settings": "FA Settings oida",
+    "FriendSystem.send.friendRequest": "{PREFIX} FA wurde verschickt!",
+    "FriendSystem.error": "Freundschafts Fehler",
+    "FriendSystem.already.send": "{0} hat bereits eine FA erhalten!",
+    "FriendSystem.already.yourFriend": "{0} Ist bereits dein Freund!",
+    "FriendSystem.player.notExist": "{0} Existiert nicht!"
   }
 }
