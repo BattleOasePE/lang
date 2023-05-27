@@ -13,6 +13,7 @@
     "coins.command.message": "{PREFIX}&7Du hast aktuell &6{COINS} &7Coins!",
     
     "lobbycore.message.soon": "{PREFIX}Bald!",
+    "LobbySystem.game.teleported": "{PREFIX}You are now on {GAME}",
     
     
     "ClanSystem.confirm.deleteClan": "Clan wirklich löschen?",
